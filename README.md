@@ -3,9 +3,11 @@
 **EID:** ywang5  
 **GitHub Username:** yitongwang5-ur  
 
-*Pronouns: He/him
-*Year: Sophomore
-*Major: Business Administration & Computer Science
+--- 
+
+**Pronouns:** He/him
+**Year:** Sophomore
+**Major:** Business Administration & Computer Science
 
 ---
 
