@@ -1,13 +1,15 @@
 # Tony Wang
 
-**EID:** ywang5  
-**GitHub Username:** yitongwang5-ur  
+**NetID: ywang5**
+**|**
+**GitHub Username: yitongwang5-ur**
+
 
 --- 
-
-**Pronouns:** He/him
-**Year:** Sophomore
-**Major:** Business Administration & Computer Science
+*Pronouns: (He/him)*
+*|*
+*Class of 2028*
+*- Business Administration & Computer Science*
 
 ---
 
@@ -26,6 +28,6 @@
 
 ---
 
-## Favorite Media
-[My favorite game](https://zelda.nintendo.com/)
+## Favorite Game
+[The Legend of Zelda](https://zelda.nintendo.com/)
 [![Favorite game](Zelda.png)](https://zelda.nintendo.com/)
