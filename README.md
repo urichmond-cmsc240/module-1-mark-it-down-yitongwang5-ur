@@ -1,4 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-[REPLACE ME!] 
+# Your Full Name Here
 
-Add your profile details here
+**EID:** ywang5  
+**GitHub Username:** yitongwang5-ur  
+
+*Pronouns: He/him
+*Year: Sophomore
+*Major: Business Administration & Computer Science
+
+---
+
+## Picture of Me
+ <!--![A picture of me](self_photo.jpg), https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown-->
+
+<img src="self_photo.jpg" alt="self" width="200"/>
+
+
+---
+
+## Hobbies
+- Playing the clarinet
+- Swimming
+- Snowboarding
+
+---
+
+## Favorite Media
+[My favorite game](https://zelda.nintendo.com/)
+[![Favorite game](Zelda.png)](https://zelda.nintendo.com/)
